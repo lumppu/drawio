@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Sivu-1" id="6e3ZExDwRTle8pg23_uF">
-    <mxGraphModel dx="589" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="373" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,8 +232,8 @@
         <mxCell id="BajUH-f0uT8nownsPd_9-10" parent="1" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=-90;gradientColor=#7ea6e0;" value="" vertex="1">
           <mxGeometry height="18.75" width="22.5" x="423.255" y="1080.005" as="geometry" />
         </mxCell>
-        <mxCell id="BajUH-f0uT8nownsPd_9-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;fontColor=#0092FF;" value="&lt;div align=&quot;left&quot;&gt;iPhone 13&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="446.76000000000005" y="1102.3799999999999" as="geometry" />
+        <mxCell id="BajUH-f0uT8nownsPd_9-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;fontColor=#0092FF;" value="&lt;div align=&quot;left&quot;&gt;iPhone 7 Plus&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.38" width="83.24" x="446.76" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="BajUH-f0uT8nownsPd_9-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;fontColor=#0092FF;" value="Canon EOS R50 V 55-250mm" vertex="1">
           <mxGeometry height="30" width="103.24" x="446.76" y="1074.38" as="geometry" />
@@ -265,7 +265,7 @@
         <mxCell id="BajUH-f0uT8nownsPd_9-22" parent="1" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=55;gradientColor=#7ea6e0;" value="" vertex="1">
           <mxGeometry height="18.75" width="22.5" x="357.85" y="880.6200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="BajUH-f0uT8nownsPd_9-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;fontColor=#0092FF;" value="&lt;div align=&quot;left&quot;&gt;Jonkun 010:n iPhone?&lt;/div&gt;" vertex="1">
+        <mxCell id="BajUH-f0uT8nownsPd_9-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;fontColor=#0092FF;" value="&lt;div align=&quot;left&quot;&gt;iPhone 7&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="78.88" x="384.12" y="872" as="geometry" />
         </mxCell>
         <mxCell id="BajUH-f0uT8nownsPd_9-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;fontStyle=1" value="5" vertex="1">
